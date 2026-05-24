@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Speaker Dialogue TTS Video Studio",
+  "description": "Create dialogues with multiple speakers, customize their emotional tones and voices, generate a visual dialogue layout, and export as fully synced video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
